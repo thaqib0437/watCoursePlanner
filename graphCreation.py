@@ -25,6 +25,6 @@ class dictExct():
             courseGraph[crc[0]] = preReq
         return courseGraph
 
-de = dictExct('http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-PMATH.html')
-G = de.makeGraph()
-print(G)
+# de = dictExct('http://www.ucalendar.uwaterloo.ca/2021/COURSE/course-PMATH.html')
+# G = de.makeGraph()
+# print(G)
